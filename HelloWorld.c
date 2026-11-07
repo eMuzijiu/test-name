@@ -1,5 +1,7 @@
 #include<stdio.h>
 
+void ws1(){}
+
 void hello(){
 	printf("function hello()\n");
 }
