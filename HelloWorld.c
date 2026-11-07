@@ -1,6 +1,8 @@
 #include<stdio.h>
 
-void ws1(){}
+void ws1(){
+	// add
+}
 
 void hello(){
 	printf("function hello()\n");
